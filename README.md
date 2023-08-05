@@ -1,4 +1,4 @@
-# GPA Calculator Java Program
+# CGPA Calculator (Java Program)
 
 This is a Java program that calculates the GPA (Grade Point Average) and CGPA (Cumulative Grade Point Average) for a list of students based on their subject grades, credit hours, and previous semester information.
 
